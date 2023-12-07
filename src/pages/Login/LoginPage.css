@@ -10,7 +10,6 @@
 }
 
 .wrap {
-    height: calc(100vh - 96px - 266px);
     display: flex;
 }
 

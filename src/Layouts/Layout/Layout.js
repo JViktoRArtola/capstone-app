@@ -7,7 +7,7 @@ function Layout() {
     return (
         <>
             <Header/>
-            <main>
+            <main style={{paddingBottom: 50}}>
                 <Outlet />
             </main>
             <Footer/>
